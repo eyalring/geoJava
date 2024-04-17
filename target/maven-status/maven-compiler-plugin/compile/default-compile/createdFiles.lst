@@ -1,0 +1,13 @@
+utils/Accumulator.class
+EarthQuakesClasses/Feature.class
+data/StaticData.class
+core/DynamicMagnitudeData.class
+GetData.class
+utils/DateUtils.class
+EarthQuakesClasses/Geometry.class
+EarthQuakesClasses/Metadata.class
+EarthQuakesClasses/EarthQuakeOfTheWeek.class
+core/Processor.class
+data/DataFetcher.class
+data/DataParser.class
+EarthQuakesClasses/Properties.class
